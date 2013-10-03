@@ -21,3 +21,11 @@ You can change port and/or context path of embedded server by setting apropriate
 
 Example of a custom configuration: 
 - `mvn -Dport=9099 -Dpath='test' jetty:run` ==> [http://localhost:9099/test](http://localhost:9099/test)
+
+Donation
+--------
+
+Your pledges keep my git repository growing in new projects. 
+I hope you found here something useful and/or interesting.
+
+22261
