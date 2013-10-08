@@ -1,4 +1,4 @@
-package net.hexacode.embedded;
+package net.exacode.embedded;
 
 import java.io.IOException;
 import java.io.PrintWriter;
