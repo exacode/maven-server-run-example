@@ -11,5 +11,5 @@
 		<appender-ref ref="stdout" />
 	</root>
 	
-	<logger name="net.hexacode" level="trace" />
+	<logger name="net.exacode" level="trace" />
 </configuration>
